@@ -9,4 +9,4 @@ Welcome to my Certificates Repository on GitHub! This repository is a curated co
 - Honors: This section highlights my achievements and special recognitions. It includes honors and accolades received for outstanding performance, significant contributions, and exemplary achievements in various fields.
 
 ## About Me
-I'm Teshnizi, a passionate learner and professional with diverse interests. This repository reflects my journey in professional development and continuous education. For further discussion or collaboration opportunities, feel free to connect with me via [Gmail](Mohammadrezaahmaditeshnizi@gmail.com) .
+I'm Teshnizi, a passionate learner and professional with diverse interests. This repository reflects my journey in professional development and continuous education. For further discussion or collaboration opportunities, feel free to connect with me via [Gmail](https://Mohammadrezaahmaditeshnizi@gmail.com) .
